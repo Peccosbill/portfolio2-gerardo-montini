@@ -1,6 +1,6 @@
 
 import myPhoto from "../img/myphoto.jpg";
-import cv from "../cv/Currículum CV Developer  Gerardo Montini.pdf";
+import cv from "../cv/Cv  Gerardo Montini.pdf";
 
 const Header = () => {
     return (
