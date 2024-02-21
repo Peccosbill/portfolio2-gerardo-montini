@@ -6,6 +6,7 @@ import Header from "./components/Header";
 import Work from "./components/Work";
 import HireMe from "./components/HireMe";
 import Technologies from "./components/Technologies";
+import Certificados from "./components/Certificados";
 
 function App() {
     const [vantaEffect, setVantaEffect] = useState(0);
@@ -81,6 +82,7 @@ function App() {
                 <Header />
                 <Work />
                 <Technologies />
+                <Certificados/>
                 <HireMe />
             </main>
         </div>
